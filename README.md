@@ -19,6 +19,10 @@ During the development phase, I addressed two core engineering challenges:
 * **Model Flexibility:** The modular code structure allows for seamless swapping of model variants (e.g., upgrading from `n` to `s` or `m` models) if higher precision is required for specific high-stakes environments.
 
 
+[Traffic Density Demo](https://github.com/SanniIsimpa/Traffic-Density-Estimator/blob/main/Traffic%20Density%20Estimator.gif)
+---
+
+
 
 ## 🛠️ Installation
 1. Ensure you have Python 3.8+ installed.
