@@ -1,0 +1,25 @@
+---
+
+### 3. `.gitignore`
+```text
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Models
+*.pt
+*.mp4
+*.avi
+*.mov
+*.pt
+
+# Ignore video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# OS
+.DS_Store
+Thumbs.db

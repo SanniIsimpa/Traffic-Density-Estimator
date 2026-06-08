@@ -1,0 +1,4 @@
+1. Ensure you have Python 3.8+ installed.
+2. Install dependencies:
+   pip install ultralytics opencv-python
+3. The YOLOv8n weights will be downloaded automatically by the Ultralytics library on the first run.
